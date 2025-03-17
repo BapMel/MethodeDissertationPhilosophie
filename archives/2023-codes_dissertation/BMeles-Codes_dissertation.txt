@@ -1,0 +1,136 @@
+_____________________________
+LISTE DES CODES DE CORRECTION UTILISÉS DANS LES COPIES
+
+Introduction
+============
+
+Amorce
+------
+
+AmHS
+:   Amorce hors sujet. **Solution :** supprimez l'amorce.
+
+Définitions
+-----------
+
+D0
+:   Définition manquante. **Solution :** ajoutez-la.
+
+D?
+:   Définition peu claire. **Solution :** clarifiez.
+
+D1
+:   Définition non consensuelle : elle ne correspond pas au sens commun.
+    **Solution :** proposez une définition plus simple.
+
+D2
+:   Définition non nécessaire : elle ne vaut pas pour tous les cas.
+    **Solution :** retirez des termes de la définition afin d'inclure
+    les cas omis.
+
+D3
+:   Définition non suffisante : elle vaut pour des contre-exemples.
+    **Solution :** ajoutez des termes dans la définition afin d'exclure
+    les contre-exemples.
+
+D4
+:   Définition circulaire : elle contient un synonyme, antonyme ou
+    paronyme (terme étymologiquement apparenté). **Solution :**
+    remplacez les termes incriminés par leur définition.
+
+Problématisation
+----------------
+
+P0
+:   Problématisation manquante. **Solution :** ajoutez-la.
+
+P/
+:   Problématisation incomplète. **Solution :** ajoutez l'un des deux
+    termes de la contradiction apparente.
+
+P!
+:   Problématisation trop rapide. **Solution :** développez afin de
+    convaincre.
+
+P?
+:   Problématique peu claire. **Solution :** simplifiez.
+
+Développement
+=============
+
+Thèses
+------
+
+T?
+:   Thèse peu claire. **Solution :** clarifiez.
+
+THS
+:   Thèse hors sujet : cette thèse n'est pas formulée comme une réponse
+    explicite au sujet. **Solution :** reformulez-la sous la forme
+    d'une réponse explicite au sujet proposé.
+
+Argumentation
+-------------
+
+A0
+:   Argumentation manquante. **Solution :** justifiez.
+
+A~
+:   Argumentation peu convaincante. **Solution :** développez davantage,
+    analysez des exemples (idéalement des exemples à la limite),
+    prévenez des objections etc.
+
+A?
+:   Argumentation peu claire. **Solution :** clarifiez.
+
+A!
+:   Argumentation trop rapide pour convaincre. **Solution :** justifiez
+    davantage.
+
+R~
+:   Référence peu convaincante. **Solution :** précisez ou corrigez.
+
+R!
+:   Référence trop allusive. **Solution :** supprimez ou développez.
+
+Dx
+:   Doxographie. **Solution :** en introduction et en conclusion,
+    supprimez les noms d'auteurs ; dans le développement, ajoutez au
+    début du paragraphe une phrase annonçant la thèse sans mentionner de
+    nom d'auteur.
+
+HS
+:   Hors sujet. **Solution :** reliez explicitement ce propos au sujet.
+
+Transition
+----------
+
+Tr0
+:   Transition manquante. **Solution :** ajoutez-la.
+
+Tr~
+:   Transition peu convaincante. **Solution :** justifiez de façon plus
+    convaincante le passage à la partie suivante.
+
+Tr!
+:   Transition trop rapide. **Solution :** développez.
+
+Conclusion
+==========
+
+C?
+:   Conclusion peu claire. **Solution :** répondez clairement et
+    explicitement au sujet.
+
+CTM
+:   Conclusion ressemblant à une Table des matières. **Solution :**
+    remplacez le vocabulaire chronologique (« d'abord/ ensuite/
+    enfin ») par des liens logiques (« il pourrait sembler que/
+    cependant »).
+
+CHS
+:   Conclusion ne répondant pas au sujet. **Solution :** répondez
+    explicitement au sujet.
+
+OHS
+:   Ouverture hors sujet. **Solution :** supprimez l'ouverture.
