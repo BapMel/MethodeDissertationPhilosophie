@@ -43,10 +43,14 @@ Elle décrit successivement :
 5. quelques suggestions — destinées aux enseignants de philosophie — sur
    l'[[enseigner][enseignement de la méthode de la dissertation]].
 
-Les fichiers ayant permis de créer le présent document sont déposés à
-l'adresse https://github.com/BapMel/MethodeDissertationPhilosophie et
-archivés de manière pérenne sur Software Heritage à l'adresse
-https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/BapMel/MethodeDissertationPhilosophie.
+La dernière version de cette méthode peut être téléchargée à l'adresse
+https://github.com/BapMel/MethodeDissertationPhilosophie/blob/master/B.Meles-Methode_dissertation.pdf[fn:3].
+Les fichiers ayant permis de créer ce document, ainsi que les versions
+antérieures de cette méthode, sont déposés à l'adresse
+
+\noindent
+https://github.com/BapMel/MethodeDissertationPhilosophie[fn:19].
+
 
 #+TOC: headlines 3
 
@@ -2775,6 +2779,18 @@ travaillés dans l'exercice ci-dessus :
 2. la rédaction des transitions.
 
 * Footnotes
+[fn:19] Ils sont archivés de manière pérenne sur Software Heritage à
+l'adresse
+
+\noindent
+https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/BapMel/MethodeDissertationPhilosophie.
+
+
+[fn:3] Elle est archivée de manière pérenne à l'adresse
+
+\noindent
+https://archive.softwareheritage.org/browse/origin/content/?origin_url=https://github.com/BapMel/MethodeDissertationPhilosophie&path=B.Meles-Methode_dissertation.pdf.
+
 [fn:1] Il se trouve qu'en français, le mot interrogatif se trouve
 généralement en début de proposition interrogative. De ce fait, une
 liste de sujets de dissertation formulés en français et classés par
