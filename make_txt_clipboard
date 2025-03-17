@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+org="BMeles-Codes_dissertation.org"
+txt="BMeles-Codes_dissertation.txt"
+
+pandoc "$org" -t markdown | \
+    sed s@'.*KEYWORDS.*'@'_____________________________\nLISTE DES CODES DE CORRECTION UTILISÉS DANS LES COPIES\n(cf. http://baptiste.meles.free.fr/site/BMeles-Codes_dissertation.pdf)'@ | \
+    sed s/'\\string'//g | \
+    sed "s/\\\'/'/g" | \
+    sed "s/\\\~/~/g" \
+        >! "$txt"
+
+echo "Pour une liste des codes de correction employés dans la copie, voir http://baptiste.meles.free.fr/site/BMeles-Codes_dissertation.pdf." | xsel -i -b
