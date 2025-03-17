@@ -1,7 +1,7 @@
 #+TITLE:     Méthode de la dissertation philosophique
 #+AUTHOR:    Baptiste Mélès
 #+EMAIL:     baptiste.meles@gmail.com
-#+DATE:      7 février 2025
+#+DATE:      17 mars 2025
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  fr
@@ -34,15 +34,15 @@ définition, en décrivant principalement :
 3. comment /répondre/ de manière pertinente au problème philosophique
    mis au jour.
 
-La présente méthode décrit :
-1. comment concevoir un plan détaillé au brouillon (section [[brouillon]]) ;
-2. la composition de l'introduction, du développement et de la conclusion
-   (sections [[introduction]] à [[conclusion]]) ;
-3. un exemple de plan détaillé et de dissertation rédigée
-   (sections [[plandetaille]] et [[redaction]]) ;
-4. une liste de sujets de dissertation (section [[sujets]]) ;
+Elle décrit successivement :
+1. comment concevoir un plan détaillé au [[brouillon][brouillon]] ;
+2. la composition de l'[[introduction][introduction]], du [[developpement][développement]] et de la
+   [[conclusion][conclusion]] ;
+3. un exemple de [[plandetaille][plan détaillé]] et de [[redaction][dissertation rédigée]] ;
+4. une [[sujets][liste]] et une [[types][typologie]] des sujets de dissertation ;
 5. quelques suggestions — destinées aux enseignants de philosophie — sur
-   l'enseignement de la méthode de la dissertation.
+   l'[[enseigner][enseignement de la méthode de la dissertation]].
+
 Les fichiers ayant permis de créer le présent document sont déposés à
 l'adresse https://github.com/BapMel/MethodeDissertationPhilosophie et
 archivés de manière pérenne sur Software Heritage à l'adresse
@@ -1450,9 +1450,9 @@ question : ici encore, la sobriété est parfois gage d'efficacité.
 #    -  Les transitions sont-elles pertinentes ?
 
 * Les sujets de dissertation
-<<sujets>>
 
 ** Liste de sujets de dissertation
+<<sujets>>
 
 Voici des sujets pour s'entraîner à la dissertation[fn:9]. Pour vous
 entraîner, il suffit de rédiger :
@@ -2644,6 +2644,8 @@ est bien faite, mais sait désormais qu'il doit agir pour qu'elle le
 soit.
 
 * Enseigner la méthode de la dissertation
+<<enseigner>>
+
 Cette section, à vocation didactique, n'est pas destinée aux élèves et
 étudiants mais à leurs enseignants. On y trouvera le témoignage,
 nécessairement partiel, d'une expérience particulière de l'enseignement
