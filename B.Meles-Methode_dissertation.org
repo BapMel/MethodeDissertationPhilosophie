@@ -26,6 +26,14 @@
 L'objectif de la dissertation de philosophie est de proposer une
 /réponse argumentée à un problème philosophique/ sur un sujet donné.
 
+La présente méthode entend tirer toutes les conséquences de cette
+définition, en décrivant principalement :
+1. comment /problématiser/, c'est-à-dire transformer le sujet proposé en la
+   mise au jour d'un problème philosophique ;
+2. comment /argumenter/ ;
+3. comment /répondre/ de manière pertinente au problème philosophique
+   mis au jour.
+
 La présente méthode décrit :
 1. comment concevoir un plan détaillé au brouillon (section [[brouillon]]) ;
 2. la composition de l'introduction, du développement et de la conclusion
