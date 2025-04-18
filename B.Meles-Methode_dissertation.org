@@ -35,7 +35,7 @@ définition, en décrivant principalement :
    mis au jour.
 
 Elle décrit successivement :
-1. comment concevoir un plan détaillé au [[brouillon][brouillon]] ;
+1. comment [[temps][gérer son temps]] ;
 2. la composition de l'[[introduction][introduction]], du [[developpement][développement]] et de la
    [[conclusion][conclusion]] ;
 3. un exemple de [[plandetaille][plan détaillé]] et de [[redaction][dissertation rédigée]] ;
@@ -54,56 +54,55 @@ https://github.com/BapMel/MethodeDissertationPhilosophie[fn:19].
 
 #+TOC: headlines 3
 
-* Le brouillon
-<<brouillon>>
+* Gestion du temps
+<<temps>>
 
-La composition d'une dissertation a lieu en trois moments : la
+** Division du temps
+
+La composition d'une dissertation s'effectue en trois moments : la
 conception d'un plan détaillé au brouillon, la rédaction, la relecture.
+Les trois moments étant cruciaux, il est important de réserver à chacun
+un temps suffisant.
 
-** Gestion du temps
+La durée nécessaire à chacune des trois étapes dépend naturellement du
+temps total dont on dispose. L'exercice dure généralement quatre heures
+en Licence, six heures aux concours de l'École normale supérieure et
+du Capes, sept heures à l'agrégation. On peut donc réserver à la
+conception du brouillon environ 1 heure ou 1h30 en Licence, 2h30 à l'ENS
+et au Capes, 3 heures à l'agrégation. La dernière demi-heure peut être
+consacrée aux relectures, et toute la durée intermédiaire à la
+rédaction.
 
-Le brouillon est un moment essentiel de la dissertation. Il faut donc
-lui consacrer suffisamment de temps, sans pour autant menacer la qualité
-de la rédaction.
+|---+-----------+---------+-------------+------------|
+| / | <         | <       | <           | <>         |
+|   |           | Licence | ENS / Capes | Agrégation |
+|---+-----------+---------+-------------+------------|
+|---+-----------+---------+-------------+------------|
+|   | Brouillon | 1h15    | 2h30        | 2h30       |
+|   | Rédaction | 2h15    | 3h          | 4h         |
+|   | Relecture | 0h30    | 0h30        | 0h30       |
+|---+-----------+---------+-------------+------------|
+|---+-----------+---------+-------------+------------|
+|   | Total     | 4h      | 6h          | 7h         |
+|---+-----------+---------+-------------+------------|
 
-On dispose généralement de quatre heures en Licence pour composer une
-dissertation, et de sept heures pour l'agrégation. On doit ménager un
-temps important pour la rédaction, car dans la précipitation, il est
-presque impossible de réfléchir efficacement. On peut donc consacrer 1h
-ou 1h30 au brouillon en Licence (donc 2h30 ou 3h pour la rédaction), 3h
-pour l'agrégation (donc 4h pour la rédaction).
-
-|---+-----------+---+---------+-------------+------------|
-| / | <         | < | <       | <           | <>         |
-|   |           |   | Licence | ENS / Capes | Agrégation |
-|---+-----------+---+---------+-------------+------------|
-|---+-----------+---+---------+-------------+------------|
-|   | Brouillon |   | 1h15    | 2h30        | 2h30       |
-|   | Rédaction |   | 2h15    | 3h          | 4h         |
-|   | Relecture |   | 0h30   | 0h30       | 0h30      |
-|---+-----------+---+---------+-------------+------------|
-|---+-----------+---+---------+-------------+------------|
-|   | Total     |   | 4h      | 6h          | 7h         |
-|---+-----------+---+---------+-------------+------------|
-
-L'idéal est d'avoir terminé la rédaction avec une avance confortable :
-au moins 15 minutes en Licence, 30 minutes à l'agrégation. _Il faut en
-effet se réserver un temps confortable pour la relecture finale_. Cette
-étape cruciale permet de corriger l'orthographe et des lapsus parfois
-rédhibitoires — oubli d'une négation dans une phrase, référence
-fautive, etc. —, de rajouter quelques mots ou phrases afin de lever des
-ambiguïtés ou d'apporter des précisions. Elle peut permettre de
-grappiller un ou deux points précieux.
-
-La relecture permet également de _soigner la graphie_ et de _peaufiner
-l'orthographe_. Certains correcteurs sanctionnent explicitement d'un ou
-deux points une graphie et une orthographe défaillantes. Ceux qui ne le
-font pas n'en sont pas moins sévères : l'impression générale de
-négligence que délivre la copie et la difficulté que l'on éprouve
-à progresser dans sa lecture sont souvent lourdement sanctionnées.
+Dès le début de l'épreuve, vous pouvez noter sur le brouillon à quelle
+heure passer d'une étape à la suivante : cela vous évitera de refaire
+les calculs plusieurs fois pendant l'examen. Surveillez constamment le
+chronomètre ou la montre que vous aurez pensé à emporter.
 
 
 ** Conception du plan détaillé
+
+Le plan détaillé est la matrice de la dissertation. Il contient toute sa
+structure et permet indifféremment de la réaliser à l'écrit ou à l'oral.
+
+Le plan détaillé contient trois parties :
+
+1. l'introduction, intégralement rédigée ;
+2. le développement, réduit à sa structure : titres de parties et de
+   sous-parties, XXXX ;
+3. la conclusion, intégralement rédigée.
 
 _Ne commencez surtout pas par accumuler des idées au hasard_ sur le
 brouillon. Vous perdriez du temps en notant des choses inutiles et hors
@@ -168,6 +167,38 @@ la conclusion.
 
 Voir un exemple de dissertation rédigée dans la section [[redaction]], que
 vous pourrez comparer avec le plan détaillé de la section [[plandetaille]].
+
+
+** Rédaction
+
+Borner le temps consacré au brouillon permet de préserver le délai
+nécessaire à la rédaction : dans la précipitation, il est presque
+impossible de réfléchir efficacement.
+
+
+** Relecture
+
+L'idéal est d'avoir terminé la rédaction avec une avance confortable :
+au moins 15 minutes en Licence, 30 minutes à l'agrégation. _Il faut en
+effet se réserver un temps confortable pour la relecture finale_. Cette
+étape cruciale permet de corriger l'orthographe et des lapsus parfois
+éliminatoires — oubli d'une négation dans une phrase, référence
+fautive, etc. —, de rajouter quelques mots ou phrases afin de lever des
+ambiguïtés ou d'apporter des précisions. Elle peut permettre de
+grappiller un ou deux points précieux, et parfois sauver une copie.
+
+La relecture permet également de _soigner la graphie_ et de _peaufiner
+l'orthographe_. Certains correcteurs sanctionnent délibérément d'un ou
+deux points une graphie et une orthographe défaillantes, et ceux qui ne
+le font pas sciemment n'en sont pas forcément plus tolérants :
+l'impression générale de négligence que délivre la copie et la
+difficulté que l'on éprouve à progresser dans sa lecture peuvent coûter
+un grand nombre de points.
+
+Il est donc important d'avoir réfléchi à l'avance au temps que l'on
+consacrera à chacune des trois étapes de la composition de la
+dissertation.
+
 
 * Les parties de la dissertation
 
