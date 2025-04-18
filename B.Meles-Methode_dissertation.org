@@ -341,9 +341,9 @@ Une bonne définition introductive doit satisfaire quatre propriétés.
    définition les conflits entre collègues, qui ne sont pas des
    guerres ;
 
-4. la définition doit enfin être _/non-circulaire/, c'est-à-dire que le
+4. la définition doit enfin être _/non-circulaire/_, c'est-à-dire que le
    terme à définir (/definiendum/​) ne doit d'aucune manière figurer dans
-   l'expression définissante (/definiens/​). Sinon, la définition ne
+   l'expres\-sion définissante (/definiens/​). Sinon, la définition ne
    serait pas instructive : elle supposerait connu ce que l'on cherche
    précisément à connaître. Par exemple, si l'on définit « la guerre »
    comme « la guerre » (!), « l'activité guerrière », « l'action de
@@ -370,7 +370,7 @@ Une bonne définition introductive doit satisfaire quatre propriétés.
    l'animal comme « un être capable de se déplacer et de viser ses
    propres fins » : on a ainsi défini le concept par des mots
    strictement plus simples. De même, si l'on dit « Dieu est l'objet des
-   mono/théismes/​ », on se contente de traduire le terme en grec !
+   mono\emph{théismes} », on se contente de traduire le terme en grec !
 
 
 **** Comment élaborer une bonne définition ?
@@ -1283,8 +1283,8 @@ l'alinéa suivant :
   réductibles aux conditions de la satisfaction des besoins naturels :
   on entre en guerre pour s'assurer une position économique privilégiée,
   pour acquérir des terres riches en minerais, pour faire coïncider les
-  frontiètres politiques de l'« État » avec les frontières culturelles de
-  la « nation », pour laver l'humiliation d'une guerre passée, pour
+  frontières politiques de l'« État » avec les frontières culturelles
+  de la « nation », pour laver l'humiliation d'une guerre passée, pour
   répandre la liberté révolutionnaire dans le monde entier, pour
   réaliser le communisme international, pour agrandir son « espace
   vital », pour recouvrer la terre de ses ancêtres, etc. : rien d'animal
