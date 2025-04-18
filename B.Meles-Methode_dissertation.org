@@ -209,7 +209,7 @@ Une introduction est composée des parties suivantes :
    section [[definitions]]) ;
 
 2. des paragraphes de /problématisation/ montrant l'existence d'une
-   _contradiction apparente à résoudre_ (voir la
+   _contra\-diction apparente à résoudre_ (voir la
    section [[problematisation]]) ;
 
 3. _la formulation explicite de la /problématique/_, question unique
@@ -358,7 +358,7 @@ Une bonne définition introductive doit satisfaire quatre propriétés.
    grammaticales), ce qui nous empêche de décomposer le concept. Cas
    extrême de circularité, le Père Étienne Noël définissait en 1647 la
    /lumière/ comme « un mouvement /luminaire/ de rayons composés de
-   corps /lucides/, c'est à dire /lumineux/​ » ! Attention, _la
+   corps /lucides/, c'est à dire /lumineux/ » ! Atten\-tion, _la
    circularité est parfois bien cachée_. Par exemple, définir la pensée
    comme « activité /mentale/ du sujet » serait s'exposer à la question
    de savoir ce qu'est à son tour l'« activité mentale »... et à la
@@ -418,7 +418,7 @@ candidats.
    1) inspecter chaque mot de l'expression définissante (/definiens/​)
       à la recherche d'un synonyme, d'un antonyme ou d'un paronyme du
       terme à définir (/definiendum/​). Exemple : dans la définition
-      « un dieu est un être divin​ », le mot « être » ne contient pas
+      « un dieu est un être divin​ », le mot « être » ne contient pas
       l'idée de dieu, mais le mot « divin », si ;
    2) remplacer chaque terme incriminé par sa définition. Exemple : en
       remplaçant, dans la définition ci-dessus, l'adjectif « divin » par
@@ -628,7 +628,7 @@ interrogative directe.
 
 Afin d'éviter tout risque de confusion, l'auteur de ces lignes
 recommande de _poser une seule et unique question_. Certains candidats
-ont tendance a accumuler sans ordre des questions vaguement
+ont tendance à accumuler sans ordre des questions vaguement
 apparentées : « L'activité théorique de l'homme peut-elle être simulée
 tout entière par la simple manipulation de signes qui caractérise le
 calcul ? Les machines peuvent-elles tout faire ? L'homme sera-t-il
@@ -749,14 +749,14 @@ une réponse à la problématique_ (donc au sujet, si celui-ci est
 une question).
 
 _Sans être obligatoire, l'annonce du plan profite généralement aux
-candidats et elle est très appréciée des correcteurs_. Elle montre que
+candi\-dats et elle est très appréciée des correcteurs_. Elle montre que
 l'étudiant sait dès le début où il va et elle permet au correcteur de
 s'orienter facilement dans la copie. Rien n'est pire pour un correcteur
 — donc plus nuisible au candidat — qu'une copie dont la structure n'est
 pas absolument transparente.
 
 Dans une annonce de plan, _chacune des parties annoncées doit être
-formulée comme une réponse explicite à la problématique, donc au
+for\-mulée comme une réponse explicite à la problématique, donc au
 sujet_ : le rapport ne doit surtout pas rester implicite.
 
 De plus, _vous ne devez pas seulement dire la thèse que vous allez
@@ -1048,8 +1048,8 @@ mobilisables pour construire un raisonnement correct_.
 _Une thèse peut être démontrée /a/ /priori/ par un syllogisme_.
 Supposons que, dans le cadre d'une dissertation sur le thème « Le
 désintéressement », on veuille --- provisoirement ou non --- répondre
-par que le désintéressement absolu n'existe pas, c'est-à-dire que toutes
-nos actions sont fondamentalement intéressées. Une preuve /a priori/
+que le désintéressement absolu n'existe pas, c'est-à-dire que toutes nos
+actions sont fondamentalement intéressées. Une preuve /a priori/
 pourrait être la suivante :
 #+BEGIN_QUOTE
   L'homme est un être vivant ; or, un être vivant ne peut être poussé à
@@ -1065,9 +1065,9 @@ actuel, réside dans le caractère /a priori/ de l'argument. Celui-ci est
 un syllogisme formellement valide [fn:6].
 
 Une façon de récuser une thèse est de _montrer une faille dans le
-raisonnement adverse_. Supposons quelqu'un soutienne la thèse « il n'y a
-pas d'action désintéressée » en commettant, comme il arrive souvent, une
-erreur de quantificateur (« il n'existe pas d'action désintéressée,
+raisonne\-ment adverse_. Supposons quelqu'un soutienne la thèse « il n'y
+a pas d'action désintéressée » en commettant, comme il arrive souvent,
+une erreur de quantificateur (« il n'existe pas d'action désintéressée,
 puisque nous voyons sans cesse les hommes autour de nous agir selon leur
 intérêt ») ou une erreur de modalisateur (« il n'existe pas d'action
 désintéressée, puisqu'il est possible que tout homme ne soit mû que par
@@ -1128,7 +1128,7 @@ qu'il s'agit bien d'une action désintéressée.
 
 Attention toutefois : _un exemple quelconque ne suffit pas pour
 /démontrer/ une thèse /universelle/, /réfuter/ une thèse
-/existentielle/, démontrer une nécessité ou réfuter une possibilité_.
+/existentielle/, démontrer une nécessité ou réfuter une possi\-bilité_.
 Il ne serait par exemple pas convaincant de dire : « Comme le montre
 l'exemple de Staline, tous les hommes sont mauvais ». La preuve n'est
 pas convaincante, car de ce qu'il ait existé /certains/ hommes mauvais,
@@ -1138,17 +1138,16 @@ modalisateurs. La généralisation est abusive.
 
 _Le seul type d'exemples qui permette de /démontrer une thèse
 universelle/ /réfuter une thèse existentielle/, démontrer une nécessité
-ou réfuter une possibilité est l'exemple-limite_, c'est-à-dire un
+ou réfuter une possi\-bilité est l'exemple-limite_, c'est-à-dire un
 exemple qui semble tellement /invalider/ notre thèse que si l'on arrive
-à montrer que /même lui/ la vérifie, elle celle-ci se vérifie
-/a fortiori/ dans tous les autres cas. Si vous arrivez à montrer que
-même les actions apparemment les plus désintéressées de Gandhi étaient
-en réalité fondamentalement intéressées, alors votre thèse vaudra
-/a fortiori/ non seulement pour Staline, mais pour tous les autres êtres
-humains. Vous fournirez ainsi, selon les termes de Gilles Gaston
-Granger, « une vérification de cette hypothèse sur des cas exemplaires,
-délibérément choisis comme particulièrement défavorables à sa
-démonstration [fn:7] ».
+à montrer que /même lui/ la vérifie, celle-ci se vérifie /a fortiori/
+dans tous les autres cas. Si vous arrivez à montrer que même les actions
+apparemment les plus désintéressées de Gandhi étaient en réalité
+fondamentalement intéressées, alors votre thèse vaudra /a fortiori/ non
+seulement pour Staline, mais pour tous les autres êtres humains. Vous
+fournirez ainsi, selon les termes de Gilles Gaston Granger, « une
+vérification de cette hypothèse sur des cas exemplaires, délibérément
+choisis comme particulièrement défavorables à sa démonstration [fn:7] ».
 
 Résumons donc les types d'exemples qui peuvent être utilisés dans les
 différents cas de figure :
@@ -1170,8 +1169,8 @@ différents cas de figure :
 
 L'usage d'une référence passe par plusieurs moments successifs :
 
-1. en une phrase, formulez en une phrase la thèse que vous entendez
-   soutenir dans le paragraphe ;
+1. en une phrase, formulez la thèse que vous entendez soutenir dans le
+   paragraphe ;
 2. en plusieurs phrases, citez la référence et reconstituez patiemment
    l'argumentation sous-jacente ;
 3. en plusieurs phrases, montrez en quoi la référence ainsi restituée
@@ -1187,7 +1186,7 @@ Elles ne doivent pas être citées pour elles-mêmes, sous peine de tomber
 dans la doxographie.
 
 En ce qui concerne le deuxième moment, _chaque référence doit être
-soigneusement développée et analysée_. Une phrase ne suffit pas.
+soi\-gneu\-sement développée et analysée_. Une phrase ne suffit pas.
 Développer une référence permet d'éviter l'érudition allusive.
 Un philosophe n'est ni un totem, ni un tabou. Une sottise, même énoncée
 par Kant, reste une sottise [fn:8] : un grand nom n'est jamais une
@@ -1288,7 +1287,7 @@ l'alinéa suivant :
   la « nation », pour laver l'humiliation d'une guerre passée, pour
   répandre la liberté révolutionnaire dans le monde entier, pour
   réaliser le communisme international, pour agrandir son « espace
-  vital », pour recouvrer la terre de ses ancêtres, etc. : rien n'animal
+  vital », pour recouvrer la terre de ses ancêtres, etc. : rien d'animal
   dans toutes ces motivations. Enfin, les moyens d'action sont de plus
   en plus « raffinés » : loin de la pierre que l'on jette à autrui, on
   fait de plus en plus appel aux dernières avancées scientifiques (armes
@@ -1321,12 +1320,12 @@ vu qu'il existait beaucoup de réponses différentes à cette question » ou
 « on a vu que cette notion est complexe et comporte de nombreux
 aspects ». On peut certes conclure sur une impossibilité de trancher,
 mais elle doit être argumentée, et non s'appuyer sur la seule diversité
-des opinions. La diversité des opinions n'est plus un bon point
+des opinions. La diversité des opinions n'est pas plus un bon point
 d'arrivée de dissertation qu'un bon point de départ.
 
 _La conclusion doit être une synthèse de la dissertation et non une
 table des matières_. À cette fin, il suffit de remplacer toutes les
-déterminations temporelles --- « d'abord », « ensuite », « enfin » etc.)
+déterminations temporelles --- « d'abord », « ensuite », « enfin », etc.
 --- par des liens logiques : « si l'on conçoit... alors... », « même
 s'il peut sembler que... », « dans la mesure où... », etc.
 
@@ -1469,8 +1468,10 @@ entraîner, il suffit de rédiger :
 3. une courte conclusion répondant clairement à la problématique.
 
 On trouvera une liste plus complète dans le document du présent auteur,
-« 11 000 sujets de dissertation de philosophie »
-(http://baptiste.meles.free.fr/site/BMeles-9000_sujets_dissertation_philosophie.pdf).
+la « Myriade des sujets de dissertation de philosophie »
+(http://baptiste.meles.free.fr/site/BMeles-Myriade_sujets_dissertation_philosophie.pdf,
+archivée de manière pérenne à l'adresse
+https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/BapMel/SujetsDeDissertation).
 
 \begin{multicols}{2}
 \noindent Peut-on renoncer à comprendre ? \par
@@ -1952,7 +1953,7 @@ paragraphes de problématisation :
    question reste inconnu/.
 
 Dans le second cas, vous devez _identifier les « attendus » de la
-question_, et les justifier à partir du sens commun. Mais _ne dites pas
+question_, et les justifier à partir du sens commun. Mais _ne dites
 surtout pas « le sujet présuppose que... »_, comme s'il s'agissait de
 présupposés arbitraires ou naïfs : il s'agit généralement de présupposés
 communément admis, que vous devez non seulement accepter comme points
@@ -2681,20 +2682,20 @@ travaillés à l'avance. Une fois le sujet choisi, il l'écrit au tableau.
 La première étape est celle de la construction de l'introduction. Elle
 se compose de deux sous-étapes : les définitions et la problématisation.
 
-Pour les définitions, chacun doit identifier les termes à définir[fn:11],
-puis écrire une définition sur son brouillon. Une fois la définition
-écrite, chacun vérifie pour lui-même si elle consensuelle, nécessaire,
-suffisante et non-circulaire[fn:12]. Lorsque tout le monde est parvenu à
-une définition, même insatisfaisante (ce qui prend environ 5 minutes par
-terme), on effectue un tour de table en écrivant au tableau les
-différentes définitions (prévoir 20 à 30 minutes). On vérifie en même
-temps si elles satisfont les quatre critères d'une bonne définition ;
-on peut souligner par des vaguelettes les éventuels points de fragilité
-tels qu'un risque de circularité et proposer de les corriger en
-modifiant le plus légèrement possible la définition. À la suite des
-propositions des étudiants, l'enseignant écrit la sienne — parfois moins
-bonne que celles d'étudiants[fn:13]. On répète l'opération pour chaque
-terme-clef du sujet.
+Pour les définitions, chacun doit identifier les termes à
+définir[fn:11], puis écrire une définition sur son brouillon. Une fois
+la définition écrite, chacun vérifie pour lui-même si elle est
+consensuelle, nécessaire, suffisante et non-circulaire[fn:12]. Lorsque
+tout le monde est parvenu à une définition, même insatisfaisante (ce qui
+prend environ 5 minutes par terme), on effectue un tour de table en
+écrivant au tableau les différentes définitions (prévoir 20
+à 30 minutes). On vérifie en même temps si elles satisfont les quatre
+critères d'une bonne définition ; on peut souligner par des vaguelettes
+les éventuels points de fragilité tels qu'un risque de circularité et
+proposer de les corriger en modifiant le plus légèrement possible la
+définition. À la suite des propositions des étudiants, l'enseignant
+écrit la sienne — parfois moins bonne que celles d'étudiants[fn:13]. On
+répète l'opération pour chaque terme-clef du sujet.
 
 (Au terme de cette étape, les étudiants voient qu'il existe plusieurs
 manières de définir un même terme, ce qui montre qu'il n'y a pas une
@@ -2794,7 +2795,8 @@ https://archive.softwareheritage.org/browse/origin/content/?origin_url=https://g
 [fn:1] Il se trouve qu'en français, le mot interrogatif se trouve
 généralement en début de proposition interrogative. De ce fait, une
 liste de sujets de dissertation formulés en français et classés par
-ordre alphabétique — comme les « [[http://baptiste.meles.free.fr/site/BMeles-9000_sujets_dissertation_philosophie.pdf][11 000 sujets de dissertation de
+ordre alphabétique — comme la « [[http://baptiste.meles.free.fr/site/BMeles-Myriade_sujets_dissertation_philosophie.pdf
+][Myriade des sujets de dissertation de
 philosophie]] » du même auteur — offre l'intéressante propriété de
 regrouper tous les sujets relevant d'un même type.
 
