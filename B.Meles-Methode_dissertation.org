@@ -1,7 +1,7 @@
 #+TITLE:     Méthode de la dissertation philosophique
 #+AUTHOR:    Baptiste Mélès
 #+EMAIL:     baptiste.meles@gmail.com
-#+DATE:      17 mars 2025
+#+DATE:      22 avril 2025
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  fr
