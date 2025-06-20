@@ -3,9 +3,6 @@
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{lmodern}
-
-%\usepackage{adjustbox}
-
 \usepackage{tikz}
 
 \usetikzlibrary{shapes, arrows, matrix, calc, fit}
@@ -15,17 +12,27 @@ minimum width=3cm,
 minimum height=1cm,
 text centered,
 draw=black,
-fill=red!30
 ]
 
 \tikzstyle{io} = [trapezium,
-trapezium stretches=true, % A later addition
+trapezium stretches=true,
 trapezium left angle=70,
 trapezium right angle=110,
 minimum width=3cm,
 minimum height=1cm, text centered,
 text width=3cm,
-draw=black, fill=blue!30]
+draw=black,
+]
+
+\tikzstyle{reflexion} = [chamfered rectangle,
+% cloud callout, aspect=10,
+% cloud puffs=21, cloud puff arc=70,
+minimum width=3cm,
+minimum height=1cm,
+text centered,
+text width=8cm,
+draw=black,
+]
 
 \tikzstyle{process} = [rectangle, rounded corners,
 minimum width=3cm,
@@ -33,41 +40,28 @@ minimum height=1cm,
 text centered,
 text width=8cm,
 draw=black,
-fill=blue!30]
-
-\tikzstyle{reflexion} = [rectangle,
-minimum width=3cm,
-minimum height=1cm,
-text centered,
-text width=8cm,
-draw=black,
-fill=orange!30]
+]
 
 \tikzstyle{decision} = [diamond,
 minimum width=3cm,
 minimum height=1cm,
 text centered,
 draw=black,
-fill=green!30]
+]
 \tikzstyle{arrow} = [thick,->,>=stealth]
 
 \begin{document}
 
-% \begin{adjustbox}{width=\paperwidth,center}
-\begin{tikzpicture}[node distance=2cm,-latex,
-  vhilit/.style={draw=black, thick, dotted, inner sep=1em}]
+  \begin{tikzpicture}[node distance=2cm,-latex,
+    vhilit/.style={draw=black, thick, dotted, inner sep=1em}]
 
     \matrix (diagramme) [matrix of nodes, column sep=3em, row sep=5ex] {
       |[process]| {\fbox{§~$1$} \\ \textbf{Définir} le 1\ier{}~terme du
         sujet} &
-      \begin{tabular}{c}
-        \LARGE Composer l'introduction \\
-        \LARGE d'une dissertation de philosophie  \\
-        (Baptiste Mélès, 24 mai 2025)
-      \end{tabular}
       \\
       |[process]| {\fbox{§~$n$} \\ \textbf{Définir} le $n$\ieme{}~terme
-        du sujet} & \\
+        du sujet} &
+      \\
       |[decision]|
       \begin{tabular}{c}
         Sujet = \\ question ?
@@ -90,17 +84,18 @@ fill=green!30]
         à l'aide des § $1$ à $n$} & |[process]| {\fbox{§~$n+2$} \\
         Justifier qu'\textbf{un élément doit être précisé} pour vérifier
         cette
-        thèse} \\[3em]
+        thèse} \\[4em]
       |[process]| {\fbox{§~$n+3$} \\ \textbf{Question totale}
         correspondant au sujet} & |[process]| {\fbox{§~$n+3$}
         \\
         \textbf{Question partielle} du
-        même type que le sujet} \\[3em]
+        même type que le sujet} \\[4em]
       |[process]| {\fbox{§~$n+4$} \\
-        \textbf{Réponses affirmatives ou négatives}, avec justification}
-      &
+        Chaque partie propose une \textbf{réponse \mbox{affirmative} ou
+          négative}, avec justification} &
       |[process]| {\fbox{§~$n+4$} \\
-        \textbf{Candidats satisfaisant la thèse sous-jacente}, avec
+        Chaque partie propose un \textbf{candidat \mbox{satisfaisant} la
+          thèse sous-jacente}, avec
         justification} \\
     };
 
@@ -111,17 +106,15 @@ fill=green!30]
     \draw (diagramme-2-1) edge (diagramme-3-1);
 
 
-    \draw (diagramme-3-1) -| node [above,xshift=-2cm] {\textbf{non}}
+    \draw (diagramme-3-1) -| node [above,xshift=-6cm] {\textbf{non}}
     (diagramme-4-2);
 
-    \draw (diagramme-3-1) -| node [below,xshift=-2cm] {
-      \begin{tabular}{c} (notion unique, \\ groupe de notions, \\ citation)
+    \draw (diagramme-3-1) -| node [below,xshift=-6cm] {
+      \begin{tabular}{c} (notion unique, \\ groupe de notions, \\
+        citation)
       \end{tabular} } (diagramme-4-2);
 
-%    \draw (diagramme-5-2) -- +(-2,0) -| (diagramme-6-1);
     \draw (diagramme-5-2) -| (diagramme-6-1);
-
-    % \draw (diagramme-5-2) edge (dessous) -| (diagramme-6-1);
 
     \draw (diagramme-3-1) edge node [left,yshift=4em] {\textbf{oui}}
     (diagramme-6-1);
@@ -144,10 +137,10 @@ fill=green!30]
 
 
 
-    \draw (diagramme-6-1) -| node [above,xshift=-2cm] {\textbf{non}}
+    \draw (diagramme-6-1) -| node [above,xshift=-6cm] {\textbf{non}}
     (diagramme-7-2);
 
-    \draw (diagramme-6-1) -| node [below,xshift=-2cm] {(demande de
+    \draw (diagramme-6-1) -| node [below,xshift=-6cm] {(demande de
       \textbf{précision})} (diagramme-7-2);
 
     \draw (diagramme-7-2) edge (diagramme-8-2);
@@ -157,20 +150,50 @@ fill=green!30]
     \draw (diagramme-9-2) edge (diagramme-10-2);
 
 
-    \node (definitions) [vhilit, fit=(diagramme-1-1) (diagramme-2-1)] {};
+    \node (definitions) [vhilit, dashed, fit=(diagramme-1-1)
+    (diagramme-2-1)] {};
 
-    \node (problematisation) [vhilit, fit=(diagramme-7-1)
+    \node (problematisation) [vhilit, dashed, fit=(diagramme-7-1)
     (diagramme-8-1) (diagramme-7-2) (diagramme-8-2)] {};
 
-    \node (problematique) [vhilit, fit=(diagramme-9-1) (diagramme-9-2)]
-    {};
+    \node (problematique) [vhilit, dashed, fit=(diagramme-9-1)
+    (diagramme-9-2)] {};
 
-    \node (annonce) [vhilit, fit=(diagramme-10-1) (diagramme-10-2)] {};
+    \node (annonce) [vhilit, dashed, fit=(diagramme-10-1)
+    (diagramme-10-2)] {};
 
 
+
+    \node[above,fill=white,yshift=3em] at (diagramme.north)
+    {
+      \begin{tabular}{c}
+        \LARGE \textsc{Structure d'une introduction de dissertation de
+        philosophie} \\ {\large (Baptiste Mélès, 19 juin 2025)}
+      \end{tabular}
+    };
 
     \node[above,fill=white,yshift=-0.8em] at (definitions.north) {\Large
       Définitions};
+
+    \node[right,fill=white,yshift=-0.8em] at (definitions.east) {
+      \begin{tabular}{l}
+        Chaque définition doit être \\
+        \begin{tabular}{@{\quad}l}
+          1. consensuelle ; \\
+          2. nécessaire ; \\
+          3. suffisante ; \\
+          4. non circulaire (\begin{tabular}[t]{@{}l}
+            sans synonyme, \\ sans antonyme, \\ sans paronyme),
+          \end{tabular} \\
+          et justifiée par
+          \begin{tabular}[t]{@{}l}
+            des exemples, \\ des contre-exemples, \\ des distinctions
+            conceptuelles.
+          \end{tabular}
+        \end{tabular} \\
+        \\
+      \end{tabular}
+    };
 
     \node[above,fill=white,yshift=-0.8em] at (problematisation.north)
     {\Large Problématisation};
@@ -182,6 +205,5 @@ fill=green!30]
       Annonce du plan};
 
   \end{tikzpicture}
-%\end{adjustbox}
 
 \end{document}
